@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+#header {height:230px;background-color:red;background-image: linear-gradient(red, blue);padding:1em}
+#article {height:500px;background-color:black;background-image: linear-gradient(blue, #ffb3ff);padding:1em}
+#footer {height:75px;background-color:black;background-image: linear-gradient(#ffb3ff, );padding:1em}
+h1{
+	color: orange;
+	text-align: center;
+	text-shadow: 2px 2px 3px black;
+}
+</style>
+<title>紅燒獅子頭</title>	
+<meta charset="UTF-8">
+</head>
+<body>
+	<script>
+					alert("已滿18歲了嗎?")
+					</script>
+
+<div id="header">
+	<h1><img src="s2.jpg" width="400px" height="200px">
+	</h1>
+</div>
+<div id="article">
+<h1>紅燒獅子頭做法</h1>
+<pre>
+<table border="1" align="center">
+<tr>
+<td>食材準備</td>
+<td>操作步驟</td>
+</tr>
+<tr>
+<td><pre>食　材：
+香料
+花椒粒 1大匙
+配料
+蒜末 適量
+薑末 適量
+鹹菜 1片 
+辣椒 1根
+蒜苗 1根
+醬料
+辣豆瓣醬 1大匙
+醬油 1大匙
+米酒 1大匙
+冰糖 1小匙
+熱開水 適量
+太白粉水 適量
+麻油 1小匙
+食材
+豬大腸 1大段
+鴨血 1塊
+</pre></td>
+<td><pre>
+作　法：
+1. 鴨血切片，越大塊越好，最好是切斜片，比較好入味
+
+2. 豬大腸取出後切半切小段，鹹菜切碎粒，蒜末、蒜苗(切開綠色與白色的部分)切段。
+
+3. 熱鍋小火先炒香花椒粒，將花椒粒取出放入
+
+
+4. 備一鍋滾水，加入少許鹽跟花椒粒川燙做法1的鴨血後撈起。
+煮得越久，鴨血也會更有花椒粒的味道，更加的好吃!!
+
+5. 加入蒜末、薑末、辣椒炒香後，加入、鹹菜碎粒少許，辣豆瓣醬、醬油抄香加入米酒跟冰糖，加入鴨血、蒜苗白色部分
+
+6. 加入豬大腸及適量的熱開水，再加入少許太白粉水勾芡，最後加入蒜苗青、起鍋前加入少許麻油。
+
+</pre>
+</td>
+</tr>
+</table>
+</div>
+<div id="footer">
+<h1>20201227</h1>
+</div>
+</body>
+</html>
